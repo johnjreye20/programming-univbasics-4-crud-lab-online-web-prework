@@ -15,7 +15,8 @@ def digits = ["one", "two", "three", "four", "five"]
   digits.push("six")
 end
 
-def remove_element_from_end_of_array(array)
+def digits  = ["one", "two", "three", "four", "five"]
+  
   
 end
 
