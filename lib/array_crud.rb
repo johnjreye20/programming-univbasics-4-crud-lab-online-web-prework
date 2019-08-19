@@ -39,6 +39,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def digits  = ["one", "two", "three", "four", "five"]
-  
+  digits
 
 end
