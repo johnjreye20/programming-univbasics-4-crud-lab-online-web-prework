@@ -21,7 +21,8 @@ def digits  = ["one", "two", "three", "four", "five"]
   
 end
 
-def remove_element_from_start_of_array(array)
+def def digits  = ["one", "two", "three", "four", "five"]
+  digits.shift
   
 end
 
