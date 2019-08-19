@@ -17,6 +17,7 @@ end
 
 def digits  = ["one", "two", "three", "four", "five"]
   digits.pop("five")
+  p digits
   
 end
 
