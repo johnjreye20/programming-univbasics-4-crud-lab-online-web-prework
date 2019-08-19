@@ -22,7 +22,7 @@ def digits  = ["one", "two", "three", "four", "five"]
 end
 
 def def digits  = ["one", "two", "three", "four", "five"]
-  digits.shift
+ one = digits.shift
   
 end
 
