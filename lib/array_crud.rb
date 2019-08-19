@@ -27,7 +27,7 @@ def digits  = ["one", "two", "three", "four", "five"]
 end
 
 def digits  = ["one", "two", "three", "four", "five"]
-  digits[0]
+  digits[1]
 end
 
 def retrieve_first_element_from_array(array)
