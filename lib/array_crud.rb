@@ -38,6 +38,7 @@ def retrieve_last_element_from_array(array)
   digits[-1]
 end
 
-def update_element_from_index(array, index_number, element)
+def digits  = ["one", "two", "three", "four", "five"]
+  
 
 end
