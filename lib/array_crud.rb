@@ -12,11 +12,11 @@ def digits << "five"
 end
 
 def digits = ["one", "two", "three", "four", "five"]
-  digits.push("six")
+  digits.unshift("six")
 end
 
 def digits  = ["one", "two", "three", "four", "five"]
-  digits
+  digits.pop("")
   
 end
 
