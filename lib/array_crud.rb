@@ -21,12 +21,12 @@ def digits  = ["one", "two", "three", "four", "five"]
   
 end
 
-def def digits  = ["one", "two", "three", "four", "five"]
+def digits  = ["one", "two", "three", "four", "five"]
  one = digits.shift
   
 end
 
-def retrieve_element_from_index(array, index_number)
+def digits  = ["one", "two", "three", "four", "five"]
   
 end
 
